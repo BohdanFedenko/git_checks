@@ -1,1 +1,3 @@
 Check merge conflict
+Merge
+develop - merge conflict
